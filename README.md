@@ -1,7 +1,7 @@
 # Data Engineer Screen
 
-### /final contains all code
-### /data contains all given data tables
+### final contains all code
+### data contains all given data tables
 *Please contact Ambika Gupta at ambika.gupta97@gmail.com for database credentials.*
 
 ### Problem Space
